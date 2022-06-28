@@ -1,7 +1,6 @@
 {
   "name": "texnomart",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -17,5 +16,16 @@
     "joi": "^17.6.0",
     "mongoose": "^6.3.2",
     "nodemon": "^2.0.16"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umidjon-Dedakhanov/texnomart_backend.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Umidjon-Dedakhanov/texnomart_backend/issues"
+  },
+  "homepage": "https://github.com/Umidjon-Dedakhanov/texnomart_backend#readme",
+  "description": ""
 }
